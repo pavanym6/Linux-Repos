@@ -1,3 +1,3 @@
 # Linux-Repos
-Some Linux Projects
+Some Linux Projects.
 Author - Pavankumar Y M
